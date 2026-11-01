@@ -47,6 +47,12 @@ El trabajo se organiza en las siguientes etapas:
 
 Se utilizaron herramientas de Inteligencia Artificial como apoyo para organizar las consignas, elaborar borradores de documentación, revisar la redacción, las historias de usuario y los indicadores de control.
 
+## Tablero de gestión
+
+Para organizar y realizar el seguimiento de las actividades del proyecto se utiliza GitHub Projects.
+
+[Acceder al tablero de gestión](https://github.com/users/Rocio-Barroso/projects/11)
+
 Los resultados se revisan y adaptan de acuerdo con las consignas de la materia y el contenido de las entregas anteriores. La selección de los contenidos, las correcciones y la versión final del trabajo son responsabilidad de la estudiante.
 
 **Ejemplos de consultas realizadas:** cómo organizar la documentación del proyecto en GitHub, cómo formular historias de usuario y cómo definir indicadores de control.
